@@ -7,4 +7,5 @@ Framework for analysis of cosmic ray data, using C++/ROOT and Python.
 Sitio oficial del proyecto http://es.escaramujo.net/
 
 Contenido:
-= El código
+
+= El código \verb *qNet*
