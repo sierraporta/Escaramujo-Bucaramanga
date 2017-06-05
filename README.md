@@ -10,4 +10,5 @@ Contenido:
 
 + El código **_qNet2root6000_GPS.exe_** se usa para el análisis de conteos de muones en el detector dado los datos que salen de la minicom. Se necesita compilar **_qNet2root6000_GPS.cc_** con **_Makefile_** y luego ejecutar **_qNet2root6000_GPS.exe_** desde la terminal de linux como:
 > make
+
 > ./qNet2root6000.exe datos_entrada.dat datos_salida.root
