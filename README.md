@@ -5,3 +5,6 @@ El Proyecto Escaramujo es una plataforma para detección de rayos cósmicos con 
 Framework for analysis of cosmic ray data, using C++/ROOT and Python.
 
 Sitio oficial del proyecto http://es.escaramujo.net/
+
+Contenido:
+= El código
