@@ -8,4 +8,5 @@ Sitio oficial del proyecto http://es.escaramujo.net/
 
 Contenido:
 
-= El código \verb *qNet*
+= El código *qNet2root6000_GPS.exe* se usa para el análisis de conteos de muones en el detector dado los datos que salen de la *minicom*. Se necesita compilar con *make*. 
+= 
